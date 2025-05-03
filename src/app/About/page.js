@@ -36,11 +36,9 @@ export default function AboutPage() {
           </p>
 
           <p className="text-lg leading-relaxed text-justify mt-4">
-            Saya menyukai dunia
-            teknologi, terutama dalam pengembangan web. Setiap hari saya menulis baris demi baris
-            kode untuk menciptakan solusi digital yang bermanfaat. Saya percaya bahwa teknologi
-            bukan hanya tentang mesin, tapi juga tentang kreativitas, inovasi, dan membangun masa depan.
-          </p>
+  Saya menyukai dunia teknologi, terutama dalam pengembangan web. Setiap hari saya menulis baris demi baris kode untuk menciptakan solusi digital yang bermanfaat. Saya percaya bahwa teknologi bukan hanya tentang mesin, tapi juga tentang kreativitas, inovasi, dan membangun masa depan.
+</p>
+
 
           <p className="text-lg leading-relaxed mt-4 text-justify">
             Di waktu luang, saya senang belajar hal-hal baru, mengembangkan proyek pribadi,
